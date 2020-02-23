@@ -25,3 +25,7 @@ Thus it was a Multiclass and multilabel problem.
 
 - Implemented a multi-label classifier using the training data. The classifier tagged all the possible domains (food, support etc) for each query using Decision Tree, Logistic Regression and Random forest algorithms.
 - Achieved a label accuracy of 94% and subset accuracy of 73%
+
+## Exploratory Data Analysis for Hotel Booking dataset
+
+[Link to EDA Hotel Booking Project](https://github.com/birajparikh16/Exploratory-Data-Analysis-Hotel-Bookings)
