@@ -36,3 +36,12 @@ Objective: To predict whether the guest would actually come or not.
 
 Dataset Source: https://www.kaggle.com/jessemostipak/hotel-booking-demand
 [Link to EDA Hotel Booking Project](https://github.com/birajparikh16/Exploratory-Data-Analysis-Hotel-Bookings)
+
+## Glassdoor: Predicting Job Slot Product Retention
+
+[Link to Glassdoor Analytics Use Case](https://github.com/birajparikh16/Glassdoor-Predicting-Job-Slot-Product-Retention)
+
+**Objective** : The goal is to predict whether the customer will renew the job slot product subscription or not.
+
+**ML-Model-Flask-Deployment** : https://job-slot-retention.herokuapp.com/
+
