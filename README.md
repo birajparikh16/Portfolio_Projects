@@ -63,6 +63,7 @@ Content: This data set contains booking information for a city hotel and a resor
 Objective: To predict whether the guest would actually come or not.
 
 Dataset Source: https://www.kaggle.com/jessemostipak/hotel-booking-demand
+
 Python Notebook: [EDA Hotel Booking Project](https://github.com/birajparikh16/Exploratory-Data-Analysis-Hotel-Bookings1)
 
 
