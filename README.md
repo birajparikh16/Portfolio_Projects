@@ -1,4 +1,4 @@
-Selected Projects and Outcomes
+Portfolio Projects and Outcomes
 ==============================
 
 This repository showcase my projects.
@@ -26,7 +26,7 @@ Python NoteBook: [Audiobooks Business Usecase](https://github.com/birajparikh16/
 
 **Objective** : The goal is to predict whether the customer will renew the job slot product subscription or not.
 
-Python Notebook: [Glassdoor Analytics Use Case](https://github.com/birajparikh16/Glassdoor-Predicting-Job-Slot-Product-Retention)
+Python Notebook: [Glassdoor Analytics Use Case](https://github.com/birajparikh16/Glassdoor-Predicting-Job-Slot-Product-Retention)\n
 **ML-Model-Flask-Deployment** : https://job-slot-retention.herokuapp.com/
 
 ## Subreddit Recommender System for Reddit users
